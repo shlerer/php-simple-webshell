@@ -142,5 +142,3 @@ echo "<!DOCTYPE html>
 <address>" . @apache_get_version() . "</address>
 
 </body></html>"
-
-?>
